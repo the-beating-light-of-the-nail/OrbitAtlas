@@ -1,0 +1,29 @@
+{
+  "kind": "rocket",
+  "slug": "starship",
+  "name": "Starship",
+  "shortName": "Starship",
+  "country": "US",
+  "description": "Starship is a fully reusable, two-stage launch system being developed by SpaceX, consisting of the Super Heavy booster and the Starship upper stage. It is the largest and most powerful rocket ever flown, burning liquid oxygen and liquid methane via Raptor engines, and is intended for lunar, Mars, and high-cadence orbital missions.",
+  "sourceUrls": [
+    "https://www.spacex.com/vehicles/starship/",
+    "https://en.wikipedia.org/wiki/SpaceX_Starship"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "spacex",
+  "status": "in-development",
+  "reusable": true,
+  "heightM": 121,
+  "diameterM": 9,
+  "massKg": 5000000,
+  "payloadToLeoKg": 150000,
+  "payloadToGtoKg": null,
+  "stages": 2,
+  "engines": [
+    { "engineSlug": "raptor", "stage": 1, "count": 33 },
+    { "engineSlug": "raptor", "stage": 2, "count": 6 }
+  ],
+  "firstFlight": null,
+  "primaryLaunchSiteSlug": "starbase",
+  "isChinaProgram": false
+}

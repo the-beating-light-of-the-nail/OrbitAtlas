@@ -1,0 +1,32 @@
+{
+  "kind": "launch",
+  "slug": "artemis-i",
+  "name": "Artemis I",
+  "country": "US",
+  "description": "Artemis I was the uncrewed inaugural flight of NASA's Space Launch System and Orion spacecraft, sending Orion on a distant retrograde orbit around the Moon and back to test systems ahead of crewed Artemis missions.",
+  "sourceUrls": [
+    "https://www.nasa.gov/mission/artemis-i/",
+    "https://en.wikipedia.org/wiki/Artemis_1"
+  ],
+  "lastUpdated": "2025-06-01",
+  "rocketSlug": "space-launch-system",
+  "launchSiteSlug": "kennedy-space-center",
+  "companySlug": "nasa",
+  "launchDate": "2022-11-16T06:47:44Z",
+  "status": "success",
+  "missionSlug": "artemis",
+  "payloads": [
+    {
+      "name": "Orion CM-002",
+      "type": "crewed-capsule",
+      "operatorSlug": "nasa",
+      "massKg": 23340,
+      "orbit": "TLI"
+    }
+  ],
+  "orbit": "TLI",
+  "recovery": { "type": "parachute", "vehicle": "Orion CM", "status": "success" },
+  "webcastUrl": "https://www.youtube.com/watch?v=-N_oDcrL50Y",
+  "flightNumber": 1,
+  "isChinaProgram": false
+}

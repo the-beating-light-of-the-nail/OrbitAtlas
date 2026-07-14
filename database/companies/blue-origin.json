@@ -1,0 +1,19 @@
+{
+  "kind": "company",
+  "slug": "blue-origin",
+  "name": "Blue Origin",
+  "shortName": "Blue Origin",
+  "country": "US",
+  "description": "Blue Origin is a private American aerospace manufacturer and spaceflight-services company founded by Jeff Bezos in 2000. It develops the New Shepard suborbital vehicle, the New Glenn orbital rocket, and the BE-family of liquid-propellant engines, and is a partner on the Artemis Human Landing System.",
+  "sourceUrls": [
+    "https://www.blueorigin.com/",
+    "https://en.wikipedia.org/wiki/Blue_Origin"
+  ],
+  "lastUpdated": "2025-06-01",
+  "type": "private",
+  "founded": "2000",
+  "headquarters": "Kent, Washington, US",
+  "website": "https://www.blueorigin.com/",
+  "rocketSlugs": ["new-glenn"],
+  "isChinaProgram": false
+}

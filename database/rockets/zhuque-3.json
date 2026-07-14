@@ -1,0 +1,28 @@
+{
+  "kind": "rocket",
+  "slug": "zhuque-3",
+  "name": "Zhuque-3",
+  "shortName": "ZQ-3",
+  "country": "CN",
+  "description": "Zhuque-3 is a reusable, liquid-oxygen/methane orbital launch vehicle under development by LandSpace, designed to be China's first commercially reusable medium-lift rocket. It is planned to land its first stage for reuse and to compete with Falcon 9-class payload capability for Chinese and international customers.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Zhuque-3",
+    "https://www.landspace.com/"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "landspace",
+  "status": "in-development",
+  "reusable": true,
+  "heightM": 76.6,
+  "diameterM": 4.5,
+  "massKg": 640000,
+  "payloadToLeoKg": 21500,
+  "payloadToGtoKg": null,
+  "stages": 2,
+  "engines": [
+    { "engineSlug": "tq-12", "stage": 1, "count": 9 }
+  ],
+  "firstFlight": null,
+  "primaryLaunchSiteSlug": null,
+  "isChinaProgram": true
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "engine",
+  "slug": "be-4",
+  "name": "BE-4",
+  "country": "US",
+  "description": "The BE-4 is a liquid-oxygen/liquefied-natural-gas rocket engine developed by Blue Origin, using an oxidizer-rich staged-combustion cycle. It powers the New Glenn first stage and is also used by United Launch Alliance's Vulcan Centaur, making it the first US methalox engine to reach orbit (on Vulcan Centaur in 2024).",
+  "sourceUrls": [
+    "https://www.blueorigin.com/engines/be-4",
+    "https://en.wikipedia.org/wiki/BE-4"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "blue-origin",
+  "cycle": "staged-combustion",
+  "propellants": ["lox", "lng"],
+  "thrustSeaKn": 2400,
+  "thrustVacKn": 2600,
+  "ispSeaS": 310,
+  "ispVacS": 340,
+  "reusable": true,
+  "rocketSlugs": ["new-glenn"]
+}

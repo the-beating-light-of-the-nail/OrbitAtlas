@@ -1,0 +1,29 @@
+{
+  "kind": "rocket",
+  "slug": "zhuque-2",
+  "name": "Zhuque-2",
+  "shortName": "ZQ-2",
+  "country": "CN",
+  "description": "Zhuque-2 is a Chinese two-stage orbital launch vehicle developed by LandSpace, powered by liquid oxygen and methane (TQ-12 engines). Its second flight in July 2023 was the first successful orbital launch of a methalox rocket worldwide, and it targets small-to-medium satellite payloads.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Zhuque-2",
+    "https://www.landspace.com/"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "landspace",
+  "status": "active",
+  "reusable": false,
+  "heightM": 49,
+  "diameterM": 3.35,
+  "massKg": 220000,
+  "payloadToLeoKg": 4000,
+  "payloadToGtoKg": null,
+  "stages": 2,
+  "engines": [
+    { "engineSlug": "tq-12", "stage": 1, "count": 4 },
+    { "engineSlug": "tq-12", "stage": 2, "count": 1 }
+  ],
+  "firstFlight": "2022-12-14",
+  "primaryLaunchSiteSlug": null,
+  "isChinaProgram": true
+}

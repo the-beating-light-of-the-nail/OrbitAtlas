@@ -1,0 +1,26 @@
+{
+  "kind": "rocket",
+  "slug": "space-launch-system",
+  "name": "Space Launch System",
+  "shortName": "SLS",
+  "country": "US",
+  "description": "The Space Launch System (SLS) is a heavy-lift, expendable launch vehicle developed by NASA for the Artemis lunar program. Its Block 1 configuration uses four RS-25 hydrogen/LOX engines on the core stage with two five-segment solid rocket boosters and an Interim Cryogenic Propulsion Stage upper stage, making it one of the most powerful rockets ever flown.",
+  "sourceUrls": [
+    "https://www.nasa.gov/exploration/systems/sls/",
+    "https://en.wikipedia.org/wiki/Space_Launch_System"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "nasa",
+  "status": "active",
+  "reusable": false,
+  "heightM": 98,
+  "diameterM": 5,
+  "massKg": 2600000,
+  "payloadToLeoKg": 95000,
+  "payloadToGtoKg": null,
+  "stages": 2,
+  "engines": [],
+  "firstFlight": "2022-11-16",
+  "primaryLaunchSiteSlug": "kennedy-space-center",
+  "isChinaProgram": false
+}

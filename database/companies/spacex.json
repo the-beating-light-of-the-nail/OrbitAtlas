@@ -1,0 +1,19 @@
+{
+  "kind": "company",
+  "slug": "spacex",
+  "name": "SpaceX",
+  "shortName": "SpaceX",
+  "country": "US",
+  "description": "Space Exploration Corp. (SpaceX) is a private American aerospace manufacturer and space-transport services company founded by Elon Musk in 2002. It develops the Falcon and Starship rocket families and operates the Starlink satellite constellation, and is known for pioneering the reuse of orbital-class rocket boosters.",
+  "sourceUrls": [
+    "https://www.spacex.com/",
+    "https://en.wikipedia.org/wiki/SpaceX"
+  ],
+  "lastUpdated": "2025-06-01",
+  "type": "private",
+  "founded": "2002",
+  "headquarters": "Hawthorne, California, US",
+  "website": "https://www.spacex.com/",
+  "rocketSlugs": ["falcon-9", "starship"],
+  "isChinaProgram": false
+}

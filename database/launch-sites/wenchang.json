@@ -1,0 +1,17 @@
+{
+  "kind": "launch-site",
+  "slug": "wenchang",
+  "name": "Wenchang Spacecraft Launch Site",
+  "shortName": "Wenchang",
+  "country": "CN",
+  "description": "Wenchang Spacecraft Launch Site on Hainan Island is China's newest and most capable launch base, used for the Long March 5, 7, and 8 families and planned for Long March 10 and crewed lunar missions. Its low latitude is advantageous for heavy-lift and geostationary missions.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site"
+  ],
+  "lastUpdated": "2025-06-01",
+  "location": { "lat": 19.614, "lon": 110.952 },
+  "operatorSlug": "casc",
+  "status": "active",
+  "pads": ["LC-101", "LC-201", "LC-301 (planned)"],
+  "isChinaProgram": true
+}

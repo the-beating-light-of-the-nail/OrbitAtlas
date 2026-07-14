@@ -1,0 +1,18 @@
+{
+  "kind": "company",
+  "slug": "galactic-energy",
+  "name": "Galactic Energy",
+  "shortName": "Galactic Energy",
+  "country": "CN",
+  "description": "Galactic Energy is a Chinese private launch company founded in 2018. It develops the Ceres family of small-satellite launch vehicles and targets low-cost dedicated launches for commercial and government small-satellite payloads.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Galactic_Energy"
+  ],
+  "lastUpdated": "2025-06-01",
+  "type": "private",
+  "founded": "2018",
+  "headquarters": "Beijing, China",
+  "website": null,
+  "rocketSlugs": [],
+  "isChinaProgram": true
+}

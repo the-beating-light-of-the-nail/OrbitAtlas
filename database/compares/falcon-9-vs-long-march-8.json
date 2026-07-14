@@ -1,0 +1,63 @@
+{
+  "kind": "compare",
+  "slug": "falcon-9-vs-long-march-8",
+  "name": "Falcon 9 vs Long March 8",
+  "country": "INT",
+  "description": "A side-by-side comparison of SpaceX's Falcon 9 and China's Long March 8, two medium-to-heavy orbital rockets from the United States and China, covering payload, reusability, status, and use cases.",
+  "sourceUrls": [
+    "https://www.spacex.com/vehicles/falcon-9/",
+    "https://en.wikipedia.org/wiki/Long_March_8",
+    "https://en.wikipedia.org/wiki/Falcon_9"
+  ],
+  "lastUpdated": "2025-06-01",
+  "entities": [
+    { "kind": "rocket", "slug": "falcon-9" },
+    { "kind": "rocket", "slug": "long-march-8" }
+  ],
+  "summary": "Falcon 9 and Long March 8 are both two-stage orbital rockets, but they sit in different payload classes and are at different stages on reusability. Falcon 9 is a partially reusable US rocket with roughly 22.8 t to LEO and a flight-proven first stage; Long March 8 is an expendable Chinese rocket with roughly 8 t to LEO, with a reusable variant still being developed.",
+  "comparisonTable": [
+    { "attribute": "Country", "values": ["United States", "China"] },
+    { "attribute": "Manufacturer", "values": ["SpaceX", "CASC"] },
+    { "attribute": "Status", "values": ["Active", "Active"] },
+    { "attribute": "Reusable", "values": ["Yes (first stage)", "No (reusable variant in testing)"] },
+    { "attribute": "Height", "values": ["70 m", "50.3 m"] },
+    { "attribute": "Diameter", "values": ["3.7 m", "3.35 m"] },
+    { "attribute": "Payload to LEO", "values": ["22,800 kg", "8,000 kg"] },
+    { "attribute": "Payload to GTO", "values": ["8,300 kg", "2,800 kg"] },
+    { "attribute": "Stages", "values": ["2", "2"] },
+    { "attribute": "First flight", "values": ["2010-06-04", "2020-12-22"] },
+    { "attribute": "First-stage reuse flights", "values": ["Dozens to date", "Not yet demonstrated"] }
+  ],
+  "keySimilarities": [
+    "Both are two-stage orbital launch vehicles.",
+    "Both use kerosene/liquid-oxygen propulsion on the first stage.",
+    "Both are operated from coastal launch sites (Cape Canaveral / Wenchang)."
+  ],
+  "keyDifferences": [
+    "Falcon 9 is partially reusable today; Long March 8 is expendable in its current operational form.",
+    "Falcon 9 lifts roughly 2.9x more payload to LEO than Long March 8.",
+    "Falcon 9 is commercially operated by a private company; Long March 8 is a state program product."
+  ],
+  "useCases": [
+    "Falcon 9: large commercial satellite constellations (e.g. Starlink), NASA cargo and crew, national-security payloads.",
+    "Long March 8: Chinese government and some commercial medium satellites to SSO and medium-inclination orbits."
+  ],
+  "limitations": [
+    "Exact Long March 8 reusable-variant schedule is not publicly confirmed.",
+    "Listed payload figures depend on configuration and orbit; treat as nominal values."
+  ],
+  "faqs": [
+    {
+      "question": "Is Long March 8 reusable?",
+      "answer": "The operational Long March 8 is expendable. A reusable first-stage variant has been flight-tested, but routine reuse is not yet in service."
+    },
+    {
+      "question": "Which rocket lifts more payload?",
+      "answer": "Falcon 9 lifts roughly 22,800 kg to LEO versus about 8,000 kg for Long March 8, so Falcon 9 has the higher payload capacity."
+    },
+    {
+      "question": "Are they direct competitors?",
+      "answer": "Not directly: Falcon 9 serves global commercial and US government markets, while Long March 8 primarily serves Chinese missions. They are comparable mainly as benchmarks of US and Chinese medium-lift capability."
+    }
+  ]
+}

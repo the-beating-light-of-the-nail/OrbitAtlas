@@ -1,0 +1,18 @@
+{
+  "kind": "launch-site",
+  "slug": "mahia",
+  "name": "Rocket Lab Launch Complex 1 (Mahia)",
+  "shortName": "Mahia LC-1",
+  "country": "NZ",
+  "description": "Rocket Lab's Launch Complex 1 on the Mahia Peninsula, New Zealand, is the primary orbital launch site for the Electron rocket, providing high-cadence, low-population-overflight access to sun-synchronous and low-Earth orbits.",
+  "sourceUrls": [
+    "https://www.rocketlabusa.com/launch/launch-complex-1/",
+    "https://en.wikipedia.org/wiki/Mahia_Peninsula"
+  ],
+  "lastUpdated": "2025-06-01",
+  "location": { "lat": -39.266, "lon": 177.865 },
+  "operatorSlug": "rocket-lab",
+  "status": "active",
+  "pads": ["Pad A", "Pad B"],
+  "isChinaProgram": false
+}

@@ -1,0 +1,32 @@
+{
+  "kind": "launch",
+  "slug": "starlink-9-2",
+  "name": "Starlink Group 9-2",
+  "shortName": "Starlink 9-2",
+  "country": "US",
+  "description": "Starlink Group 9-2 was a Falcon 9 launch from Kennedy Space Center carrying a batch of Starlink satellites to low Earth orbit, with the first stage landing on a droneship downrange.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/List_of_Falcon_9_launches_(2024)"
+  ],
+  "lastUpdated": "2025-06-01",
+  "rocketSlug": "falcon-9",
+  "launchSiteSlug": "kennedy-space-center",
+  "companySlug": "spacex",
+  "launchDate": "2024-08-31T09:43:00Z",
+  "status": "success",
+  "missionSlug": "starlink",
+  "payloads": [
+    {
+      "name": "Starlink v2 Mini (batch)",
+      "type": "communications",
+      "operatorSlug": "spacex",
+      "massKg": 17500,
+      "orbit": "LEO"
+    }
+  ],
+  "orbit": "LEO",
+  "recovery": { "type": "droneship", "vehicle": "Just Read the Instructions", "status": "success" },
+  "webcastUrl": null,
+  "flightNumber": null,
+  "isChinaProgram": false
+}

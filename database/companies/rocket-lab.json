@@ -1,0 +1,19 @@
+{
+  "kind": "company",
+  "slug": "rocket-lab",
+  "name": "Rocket Lab",
+  "shortName": "Rocket Lab",
+  "country": "US",
+  "description": "Rocket Lab is an American aerospace company founded in 2006, operating the Electron small orbital launch vehicle and developing the larger reusable Neutron rocket. It also builds satellite components and space systems and is listed on Nasdaq.",
+  "sourceUrls": [
+    "https://www.rocketlabusa.com/",
+    "https://en.wikipedia.org/wiki/Rocket_Lab"
+  ],
+  "lastUpdated": "2025-06-01",
+  "type": "private",
+  "founded": "2006",
+  "headquarters": "Long Beach, California, US",
+  "website": "https://www.rocketlabusa.com/",
+  "rocketSlugs": ["electron"],
+  "isChinaProgram": false
+}

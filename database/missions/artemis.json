@@ -1,0 +1,17 @@
+{
+  "kind": "mission",
+  "slug": "artemis",
+  "name": "Artemis Program",
+  "country": "US",
+  "description": "Artemis is NASA's program to return astronauts to the Moon and establish a sustainable lunar presence, using the Space Launch System, the Orion spacecraft, and commercial and international landers. Artemis I flew uncrewed in 2022; Artemis II is planned as the first crewed flight around the Moon.",
+  "sourceUrls": [
+    "https://www.nasa.gov/specials/artemis/",
+    "https://en.wikipedia.org/wiki/Artemis_program"
+  ],
+  "lastUpdated": "2025-06-01",
+  "operatorSlug": "nasa",
+  "type": "lunar",
+  "launchSlugs": ["artemis-i"],
+  "target": "TLI / Lunar orbit",
+  "isChinaProgram": false
+}

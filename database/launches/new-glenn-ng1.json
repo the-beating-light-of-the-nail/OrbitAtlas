@@ -1,0 +1,33 @@
+{
+  "kind": "launch",
+  "slug": "new-glenn-ng1",
+  "name": "New Glenn NG-1 (Goober)",
+  "shortName": "NG-1",
+  "country": "US",
+  "description": "NG-1 was the inaugural flight of Blue Origin's New Glenn heavy-lift rocket, reaching orbit on its first attempt and deploying a prototype payload, while the first-stage recovery was not achieved.",
+  "sourceUrls": [
+    "https://www.blueorigin.com/news/new-glenn-successfully-reaches-orbit-on-initial-flight",
+    "https://en.wikipedia.org/wiki/New_Glenn"
+  ],
+  "lastUpdated": "2025-06-01",
+  "rocketSlug": "new-glenn",
+  "launchSiteSlug": "cape-canaveral",
+  "companySlug": "blue-origin",
+  "launchDate": "2025-01-16T07:03:00Z",
+  "status": "success",
+  "missionSlug": null,
+  "payloads": [
+    {
+      "name": "Blue Ring Pathfinder",
+      "type": "technology-demonstration",
+      "operatorSlug": "blue-origin",
+      "massKg": null,
+      "orbit": "GEO"
+    }
+  ],
+  "orbit": "GEO",
+  "recovery": { "type": "droneship", "vehicle": "Jacklyn (landing platform)", "status": "failure" },
+  "webcastUrl": null,
+  "flightNumber": 1,
+  "isChinaProgram": false
+}

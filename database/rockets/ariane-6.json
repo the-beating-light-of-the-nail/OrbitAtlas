@@ -1,0 +1,26 @@
+{
+  "kind": "rocket",
+  "slug": "ariane-6",
+  "name": "Ariane 6",
+  "shortName": "A6",
+  "country": "EU",
+  "description": "Ariane 6 is a European heavy-lift launch vehicle operated by Arianespace and developed by ArianeGroup for the European Space Agency. It succeeds Ariane 5 with a simplified, lower-cost design and solid or strap-on boosters, launching institutional and commercial geostationary satellites from the Guiana Space Centre.",
+  "sourceUrls": [
+    "https://www.arianespace.com/launch-vehicle/ariane-6/",
+    "https://en.wikipedia.org/wiki/Ariane_6"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "arianespace",
+  "status": "active",
+  "reusable": false,
+  "heightM": 56,
+  "diameterM": 5.4,
+  "massKg": 530000,
+  "payloadToLeoKg": 21600,
+  "payloadToGtoKg": 11500,
+  "stages": 2,
+  "engines": [],
+  "firstFlight": "2024-07-09",
+  "primaryLaunchSiteSlug": null,
+  "isChinaProgram": false
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "engine",
+  "slug": "tq-12",
+  "name": "TQ-12",
+  "country": "CN",
+  "description": "The TQ-12 is a Chinese liquid-oxygen/methane rocket engine developed by LandSpace for the Zhuque-2 and Zhuque-3 rockets. It is one of the first methane-liquid-oxygen engines to fly, and the Zhuque-2 launch in 2023 was the first orbital flight of a methalox engine worldwide.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Zhuque-2",
+    "https://www.landspace.com/"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "landspace",
+  "cycle": "gas-generator",
+  "propellants": ["lox", "methane"],
+  "thrustSeaKn": 670,
+  "thrustVacKn": 800,
+  "ispSeaS": 290,
+  "ispVacS": 330,
+  "reusable": false,
+  "rocketSlugs": ["zhuque-2", "zhuque-3"]
+}

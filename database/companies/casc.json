@@ -1,0 +1,19 @@
+{
+  "kind": "company",
+  "slug": "casc",
+  "name": "China Aerospace Science and Technology Corporation",
+  "shortName": "CASC",
+  "country": "CN",
+  "description": "CASC is the main state-owned contractor for China's space program, formed in 1999. It designs and manufactures the Long March (Chang Zheng) rocket family, China's space stations, and lunar and planetary probes, and operates most of China's orbital launch infrastructure.",
+  "sourceUrls": [
+    "http://www.spacechina.com/en/",
+    "https://en.wikipedia.org/wiki/China_Aerospace_Science_and_Technology_Corporation"
+  ],
+  "lastUpdated": "2025-06-01",
+  "type": "state-owned-enterprise",
+  "founded": "1999",
+  "headquarters": "Beijing, China",
+  "website": "http://www.spacechina.com/en/",
+  "rocketSlugs": ["long-march-5", "long-march-8", "long-march-10"],
+  "isChinaProgram": true
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "engine",
+  "slug": "raptor",
+  "name": "Raptor",
+  "country": "US",
+  "description": "Raptor is a family of full-flow staged-combustion rocket engines developed by SpaceX, burning liquid oxygen and liquid methane. It powers the Starship/Super Heavy launch system and is designed for high reusability and eventually for use on Mars where methane can be produced in situ.",
+  "sourceUrls": [
+    "https://www.spacex.com/vehicles/starship/",
+    "https://en.wikipedia.org/wiki/SpaceX_Raptor"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "spacex",
+  "cycle": "full-flow-staged-combustion",
+  "propellants": ["lox", "methane"],
+  "thrustSeaKn": 2300,
+  "thrustVacKn": 2500,
+  "ispSeaS": 330,
+  "ispVacS": 350,
+  "reusable": true,
+  "rocketSlugs": ["starship"]
+}

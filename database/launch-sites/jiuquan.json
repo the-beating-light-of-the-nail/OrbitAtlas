@@ -1,0 +1,17 @@
+{
+  "kind": "launch-site",
+  "slug": "jiuquan",
+  "name": "Jiuquan Satellite Launch Center",
+  "shortName": "Jiuquan",
+  "country": "CN",
+  "description": "Jiuquan Satellite Launch Center in the Gobi Desert is China's oldest launch base, used for crewed Shenzhou missions and a range of medium and small orbital launches including Chinese private vehicles such as LandSpace's Zhuque-2. It supports launches to medium- and low-inclination orbits.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center"
+  ],
+  "lastUpdated": "2025-06-01",
+  "location": { "lat": 40.958, "lon": 100.292 },
+  "operatorSlug": "casc",
+  "status": "active",
+  "pads": ["LC-43 (SLS-2/921)", "LC-95 (commercial)"],
+  "isChinaProgram": true
+}

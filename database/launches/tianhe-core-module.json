@@ -1,0 +1,33 @@
+{
+  "kind": "launch",
+  "slug": "tianhe-core-module",
+  "name": "Tianhe Core Module Launch",
+  "shortName": "Tianhe Launch",
+  "country": "CN",
+  "description": "The launch of the Tianhe core module on a Long March 5B from Wenchang began the on-orbit assembly of China's Tiangong space station, placing the station's central habitation and control module into low Earth orbit.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Tiangong_space_station",
+    "https://en.wikipedia.org/wiki/Long_March_5B"
+  ],
+  "lastUpdated": "2025-06-01",
+  "rocketSlug": "long-march-5",
+  "launchSiteSlug": "wenchang",
+  "companySlug": "casc",
+  "launchDate": "2021-04-29T03:23:15Z",
+  "status": "success",
+  "missionSlug": "tiangong",
+  "payloads": [
+    {
+      "name": "Tianhe core module",
+      "type": "space-station-module",
+      "operatorSlug": "casc",
+      "massKg": 22600,
+      "orbit": "LEO"
+    }
+  ],
+  "orbit": "LEO",
+  "recovery": { "type": "none", "status": "not-attempted" },
+  "webcastUrl": null,
+  "flightNumber": null,
+  "isChinaProgram": true
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "launch-site",
+  "slug": "cape-canaveral",
+  "name": "Cape Canaveral Space Force Station",
+  "shortName": "Cape Canaveral",
+  "country": "US",
+  "description": "Cape Canaveral Space Force Station (CCSFS), together with adjacent Kennedy Space Center, forms the busiest US East-Coast launch range, hosting Falcon 9, Falcon Heavy, Atlas V, Vulcan, and New Glenn launches. It is operated by the US Space Force.",
+  "sourceUrls": [
+    "https://www.patrick.spaceforce.mil/",
+    "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Force_Station"
+  ],
+  "lastUpdated": "2025-06-01",
+  "location": { "lat": 28.489, "lon": -80.573 },
+  "operatorSlug": null,
+  "status": "active",
+  "pads": ["SLC-40", "LC-36", "SLC-41"],
+  "isChinaProgram": false
+}

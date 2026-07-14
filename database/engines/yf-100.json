@@ -1,0 +1,20 @@
+{
+  "kind": "engine",
+  "slug": "yf-100",
+  "name": "YF-100",
+  "country": "CN",
+  "description": "The YF-100 is a Chinese staged-combustion rocket engine burning liquid oxygen and kerosene, developed for the Long March 5, 6, and 7 families and later used on the Long March 8. It is produced by the Academy of Aerospace Liquid Propulsion Technology and is a core engine of China's modern launch fleet.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/YF-100"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "casc",
+  "cycle": "staged-combustion",
+  "propellants": ["lox", "kerosene"],
+  "thrustSeaKn": 1190,
+  "thrustVacKn": 1340,
+  "ispSeaS": 300,
+  "ispVacS": 335,
+  "reusable": false,
+  "rocketSlugs": ["long-march-5", "long-march-8", "long-march-10"]
+}

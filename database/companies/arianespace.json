@@ -1,0 +1,19 @@
+{
+  "kind": "company",
+  "slug": "arianespace",
+  "name": "Arianespace",
+  "shortName": "Arianespace",
+  "country": "EU",
+  "description": "Arianespace is a European launch-services company founded in 1980, marketing the Ariane, Soyuz (historically), and Vega launch vehicles. It operates from the Guiana Space Centre and is a subsidiary of the ArianeGroup joint venture, serving institutional and commercial satellite operators worldwide.",
+  "sourceUrls": [
+    "https://www.arianespace.com/",
+    "https://en.wikipedia.org/wiki/Arianespace"
+  ],
+  "lastUpdated": "2025-06-01",
+  "type": "consortium",
+  "founded": "1980",
+  "headquarters": "Évreux, France",
+  "website": "https://www.arianespace.com/",
+  "rocketSlugs": ["ariane-6"],
+  "isChinaProgram": false
+}

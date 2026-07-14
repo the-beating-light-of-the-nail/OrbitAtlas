@@ -1,0 +1,17 @@
+{
+  "kind": "mission",
+  "slug": "starlink",
+  "name": "Starlink",
+  "country": "US",
+  "description": "Starlink is SpaceX's low-Earth-orbit satellite internet constellation, launched in batches on Falcon 9 and intended to provide global broadband coverage. It is the largest satellite constellation in orbit and a major driver of Falcon 9's high launch cadence.",
+  "sourceUrls": [
+    "https://www.starlink.com/",
+    "https://en.wikipedia.org/wiki/Starlink"
+  ],
+  "lastUpdated": "2025-06-01",
+  "operatorSlug": "spacex",
+  "type": "communications",
+  "launchSlugs": ["starlink-9-2", "starlink-7-9"],
+  "target": "LEO",
+  "isChinaProgram": false
+}

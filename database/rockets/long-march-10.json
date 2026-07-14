@@ -1,0 +1,27 @@
+{
+  "kind": "rocket",
+  "slug": "long-march-10",
+  "name": "Long March 10",
+  "shortName": "CZ-10",
+  "country": "CN",
+  "description": "Long March 10 (Chang Zheng 10) is a Chinese crewed-lunar launch vehicle under development by CASC, designed to support China's planned crewed Moon landings in the late 2020s. It uses YF-100K kerosene/LOX engines with a three-stage configuration and optional boosters to send the Mengzhou crew spacecraft and Lanyue lunar lander toward the Moon.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Long_March_10"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "casc",
+  "status": "in-development",
+  "reusable": false,
+  "heightM": 92.2,
+  "diameterM": 5,
+  "massKg": 2189000,
+  "payloadToLeoKg": 70000,
+  "payloadToGtoKg": null,
+  "stages": 3,
+  "engines": [
+    { "engineSlug": "yf-100", "stage": 1, "count": 3 }
+  ],
+  "firstFlight": null,
+  "primaryLaunchSiteSlug": "wenchang",
+  "isChinaProgram": true
+}

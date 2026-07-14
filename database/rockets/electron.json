@@ -1,0 +1,26 @@
+{
+  "kind": "rocket",
+  "slug": "electron",
+  "name": "Electron",
+  "shortName": "Electron",
+  "country": "US",
+  "description": "Electron is a small orbital launch vehicle developed and operated by Rocket Lab, using electric-pump-fed Rutherford kerosene/LOX engines. It launches dedicated small-satellite payloads from New Zealand and the United States, and Rocket Lab has begun recovering and reflying first-stage engines.",
+  "sourceUrls": [
+    "https://www.rocketlabusa.com/launch/electron/",
+    "https://en.wikipedia.org/wiki/Electron_(rocket)"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "rocket-lab",
+  "status": "active",
+  "reusable": true,
+  "heightM": 18,
+  "diameterM": 1.2,
+  "massKg": 13000,
+  "payloadToLeoKg": 300,
+  "payloadToGtoKg": null,
+  "stages": 2,
+  "engines": [],
+  "firstFlight": "2017-05-25",
+  "primaryLaunchSiteSlug": "mahia",
+  "isChinaProgram": false
+}

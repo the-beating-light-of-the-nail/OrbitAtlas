@@ -1,0 +1,18 @@
+{
+  "kind": "launch-site",
+  "slug": "kennedy-space-center",
+  "name": "Kennedy Space Center",
+  "shortName": "KSC",
+  "country": "US",
+  "description": "NASA's Kennedy Space Center on Merritt Island, Florida, is the historic site of the Apollo, Space Shuttle, and Artemis launches. Its Launch Complex 39A and 39B host Falcon 9, Falcon Heavy, crewed Dragon, and the SLS/Artemis missions, and are operated by NASA.",
+  "sourceUrls": [
+    "https://www.nasa.gov/centers/kennedy/",
+    "https://en.wikipedia.org/wiki/Kennedy_Space_Center"
+  ],
+  "lastUpdated": "2025-06-01",
+  "location": { "lat": 28.572, "lon": -80.649 },
+  "operatorSlug": "nasa",
+  "status": "active",
+  "pads": ["LC-39A", "LC-39B"],
+  "isChinaProgram": false
+}

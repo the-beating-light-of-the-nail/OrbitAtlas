@@ -1,0 +1,64 @@
+{
+  "kind": "compare",
+  "slug": "starship-vs-zhuque-3",
+  "name": "Starship vs Zhuque-3",
+  "country": "INT",
+  "description": "A side-by-side comparison of SpaceX's Starship and LandSpace's Zhuque-3, two reusable liquid-oxygen/methane orbital rockets from the United States and China, covering scale, payload, and development status.",
+  "sourceUrls": [
+    "https://www.spacex.com/vehicles/starship/",
+    "https://en.wikipedia.org/wiki/Zhuque-3",
+    "https://en.wikipedia.org/wiki/SpaceX_Starship"
+  ],
+  "lastUpdated": "2025-06-01",
+  "entities": [
+    { "kind": "rocket", "slug": "starship" },
+    { "kind": "rocket", "slug": "zhuque-3" }
+  ],
+  "summary": "Starship and Zhuque-3 are both reusable, liquid-oxygen/methane orbital rockets, but they are an order of magnitude apart in scale. Starship is the largest rocket ever built, aimed at crewed lunar and Mars missions; Zhuque-3 is a Chinese commercial medium-lift rocket aimed at competing with Falcon 9-class payloads.",
+  "comparisonTable": [
+    { "attribute": "Country", "values": ["United States", "China"] },
+    { "attribute": "Manufacturer", "values": ["SpaceX", "LandSpace"] },
+    { "attribute": "Status", "values": ["In development", "In development"] },
+    { "attribute": "Reusable", "values": ["Yes (fully)", "Yes (first stage)"] },
+    { "attribute": "Height", "values": ["121 m", "76.6 m"] },
+    { "attribute": "Diameter", "values": ["9 m", "4.5 m"] },
+    { "attribute": "Payload to LEO", "values": ["150,000 kg (planned)", "21,500 kg"] },
+    { "attribute": "Propellants", "values": ["LOX / methane", "LOX / methane"] },
+    { "attribute": "Engine cycle", "values": ["Full-flow staged combustion", "Gas generator"] },
+    { "attribute": "First stage engines", "values": ["33 Raptor", "9 TQ-12"] },
+    { "attribute": "First flight", "values": ["Not yet orbital", "Not yet flown"] }
+  ],
+  "keySimilarities": [
+    "Both burn liquid oxygen and methane and target reusability.",
+    "Both are in active development rather than fully operational.",
+    "Both use methalox engines designed for eventual reuse."
+  ],
+  "keyDifferences": [
+    "Starship is fully reusable and far larger; Zhuque-3 only recovers the first stage and is Falcon 9-class.",
+    "Starship targets crewed lunar/Mars missions; Zhuque-3 targets commercial satellite launch.",
+    "Raptor uses a full-flow staged-combustion cycle; TQ-12 uses a simpler gas-generator cycle."
+  ],
+  "useCases": [
+    "Starship: very-large-payload and crewed deep-space missions, point-to-point and high-cadence orbital launch.",
+    "Zhuque-3: Chinese commercial and government medium-to-large satellites, with first-stage reuse to lower cost."
+  ],
+  "limitations": [
+    "Starship payload figures are planned, not yet demonstrated on an orbital flight.",
+    "Zhuque-3 has not yet flown; performance numbers are manufacturer targets.",
+    "Direct comparison is asymmetric because the vehicles target different market segments."
+  ],
+  "faqs": [
+    {
+      "question": "Is Zhuque-3 China's Starship?",
+      "answer": "No. Zhuque-3 is much smaller and targets Falcon 9-class commercial launch, while Starship is a fully reusable super-heavy vehicle for deep-space missions. They share methalox propulsion and reusability goals."
+    },
+    {
+      "question": "Which is closer to operation?",
+      "answer": "Both are in development. Starship has conducted high-altitude and near-orbital integrated flight tests; Zhuque-3 has not yet conducted an orbital flight as of the last update."
+    },
+    {
+      "question": "Why compare them at all?",
+      "answer": "They are two of the most prominent reusable methalox rockets in development in the US and China, which makes them useful benchmarks for each country's reusable-rocket progress."
+    }
+  ]
+}

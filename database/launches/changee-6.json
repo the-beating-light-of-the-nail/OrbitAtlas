@@ -1,0 +1,31 @@
+{
+  "kind": "launch",
+  "slug": "changee-6",
+  "name": "Chang'e 6",
+  "country": "CN",
+  "description": "Chang'e 6 was China's lunar far-side sample return mission, launched on a Long March 5 from Wenchang. It returned the first samples ever collected from the far side of the Moon, a milestone for China's lunar exploration program.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Chang%27e_6"
+  ],
+  "lastUpdated": "2025-06-01",
+  "rocketSlug": "long-march-5",
+  "launchSiteSlug": "wenchang",
+  "companySlug": "casc",
+  "launchDate": "2024-05-03T09:27:00Z",
+  "status": "success",
+  "missionSlug": null,
+  "payloads": [
+    {
+      "name": "Chang'e 6 lander/ascender",
+      "type": "lunar-probe",
+      "operatorSlug": "casc",
+      "massKg": 8200,
+      "orbit": "TLI"
+    }
+  ],
+  "orbit": "TLI",
+  "recovery": { "type": "none", "status": "not-attempted" },
+  "webcastUrl": null,
+  "flightNumber": null,
+  "isChinaProgram": true
+}

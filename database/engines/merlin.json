@@ -1,0 +1,21 @@
+{
+  "kind": "engine",
+  "slug": "merlin",
+  "name": "Merlin",
+  "country": "US",
+  "description": "Merlin is a family of kerosene/liquid-oxygen rocket engines developed by SpaceX for the Falcon family. It uses a gas-generator cycle and is the first orbital-class rocket engine designed for reuse, with the Falcon 9 first stage flying up to dozens of times on the same set of engines.",
+  "sourceUrls": [
+    "https://www.spacex.com/vehicles/falcon-9/",
+    "https://en.wikipedia.org/wiki/SpaceX_Merlin"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "spacex",
+  "cycle": "gas-generator",
+  "propellants": ["lox", "kerosene"],
+  "thrustSeaKn": 845,
+  "thrustVacKn": 981,
+  "ispSeaS": 282,
+  "ispVacS": 311,
+  "reusable": true,
+  "rocketSlugs": ["falcon-9"]
+}

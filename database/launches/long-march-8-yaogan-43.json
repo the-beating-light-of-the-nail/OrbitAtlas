@@ -1,0 +1,32 @@
+{
+  "kind": "launch",
+  "slug": "long-march-8-yaogan-43",
+  "name": "Long March 8 · Yaogan-43 02",
+  "shortName": "CZ-8 Yaogan-43 02",
+  "country": "CN",
+  "description": "A Long March 8 launch from Wenchang carrying the second group of Yaogan-43 reconnaissance satellites to sun-synchronous orbit, illustrating the Long March 8's role in China's medium-lift satellite deployment.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Long_March_8"
+  ],
+  "lastUpdated": "2025-06-01",
+  "rocketSlug": "long-march-8",
+  "launchSiteSlug": "wenchang",
+  "companySlug": "casc",
+  "launchDate": "2024-12-19T16:58:00Z",
+  "status": "success",
+  "missionSlug": null,
+  "payloads": [
+    {
+      "name": "Yaogan-43 02 (group)",
+      "type": "earth-observation",
+      "operatorSlug": "casc",
+      "massKg": null,
+      "orbit": "SSO"
+    }
+  ],
+  "orbit": "SSO",
+  "recovery": { "type": "none", "status": "not-attempted" },
+  "webcastUrl": null,
+  "flightNumber": null,
+  "isChinaProgram": true
+}

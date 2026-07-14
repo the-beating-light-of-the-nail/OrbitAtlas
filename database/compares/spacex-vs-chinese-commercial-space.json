@@ -1,0 +1,61 @@
+{
+  "kind": "compare",
+  "slug": "spacex-vs-chinese-commercial-space",
+  "name": "SpaceX vs Chinese Commercial Space",
+  "country": "INT",
+  "description": "A side-by-side comparison of SpaceX and China's leading commercial launch companies (represented here by LandSpace), covering organisation, vehicles, reusability, and market position.",
+  "sourceUrls": [
+    "https://www.spacex.com/",
+    "https://www.landspace.com/",
+    "https://en.wikipedia.org/wiki/Chinese_commercial_space_industry"
+  ],
+  "lastUpdated": "2025-06-01",
+  "entities": [
+    { "kind": "company", "slug": "spacex", "label": "SpaceX" },
+    { "kind": "company", "slug": "landspace", "label": "LandSpace (Chinese commercial space)" }
+  ],
+  "summary": "SpaceX is the leading US commercial launch company and a global launch-market leader with a reusable Falcon 9 and the in-development Starship. China's commercial launch sector, represented here by LandSpace, is younger and growing fast, with methalox rockets like Zhuque-2 already orbital and a reusable Zhuque-3 in development.",
+  "comparisonTable": [
+    { "attribute": "Type", "values": ["Private", "Private"] },
+    { "attribute": "Country", "values": ["United States", "China"] },
+    { "attribute": "Founded", "values": ["2002", "2015"] },
+    { "attribute": "Operational orbital rocket", "values": ["Falcon 9", "Zhuque-2"] },
+    { "attribute": "Reusable rocket flown", "values": ["Falcon 9 (first stage)", "Not yet orbital"] },
+    { "attribute": "Methalox engine flown", "values": ["Raptor (Starship tests)", "TQ-12 (Zhuque-2, orbital)"] },
+    { "attribute": "Heavy-lift in development", "values": ["Starship", "Zhuque-3"] },
+    { "attribute": "Crewed spaceflight", "values": ["Yes (Dragon)", "No"] },
+    { "attribute": "Satellite constellation", "values": ["Starlink", "None (operator level)"] }
+  ],
+  "keySimilarities": [
+    "Both are private companies pursuing reusable liquid-propellant rockets.",
+    "Both have flown orbital rockets burning liquid oxygen and methane.",
+    "Both target lower launch costs through reuse."
+  ],
+  "keyDifferences": [
+    "SpaceX is more than a decade older and operates mature reusable rockets at high cadence; Chinese commercial launchers are earlier in that trajectory.",
+    "SpaceX operates crewed missions and a mega-constellation; Chinese commercial companies focus on launch services.",
+    "SpaceX's Raptor uses a full-flow staged-combustion cycle; LandSpace's TQ-12 uses a gas-generator cycle."
+  ],
+  "useCases": [
+    "SpaceX: global commercial, US government, crewed, and constellation launch.",
+    "Chinese commercial space (LandSpace et al.): domestic small-to-medium satellite launch, with reusable medium-lift coming online."
+  ],
+  "limitations": [
+    "This comparison represents Chinese commercial space with LandSpace; other companies (e.g. Galactic Energy, iSpace, CAS Space) have different capabilities.",
+    "Chinese commercial launch cadence and financials are partially public; some figures are not independently confirmed."
+  ],
+  "faqs": [
+    {
+      "question": "Is LandSpace the Chinese SpaceX?",
+      "answer": "LandSpace is one of several Chinese private launch companies and is notable for the first orbital methalox flight. It is not a single equivalent of SpaceX; China's commercial space sector is spread across several firms."
+    },
+    {
+      "question": "Has a Chinese company reused a rocket?",
+      "answer": "As of the last update, no Chinese commercial company has reused an orbital first stage, though several reusable variants (including Zhuque-3) are in development and test."
+    },
+    {
+      "question": "Can Chinese commercial rockets launch foreign satellites?",
+      "answer": "Some can, subject to Chinese government licensing and applicable export controls; specifics vary by company and payload and are not always public."
+    }
+  ]
+}

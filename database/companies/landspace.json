@@ -1,0 +1,19 @@
+{
+  "kind": "company",
+  "slug": "landspace",
+  "name": "LandSpace Technology Corporation",
+  "shortName": "LandSpace",
+  "country": "CN",
+  "description": "LandSpace is a Chinese private launch-services company founded in 2015. It developed the Zhuque family of liquid-propellant rockets and was the first Chinese private company to reach orbit with a liquid-oxygen/methane engine, on the Zhuque-2 vehicle in 2023.",
+  "sourceUrls": [
+    "https://www.landspace.com/",
+    "https://en.wikipedia.org/wiki/LandSpace"
+  ],
+  "lastUpdated": "2025-06-01",
+  "type": "private",
+  "founded": "2015",
+  "headquarters": "Beijing, China",
+  "website": "https://www.landspace.com/",
+  "rocketSlugs": ["zhuque-2", "zhuque-3"],
+  "isChinaProgram": true
+}

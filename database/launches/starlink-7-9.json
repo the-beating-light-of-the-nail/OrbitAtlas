@@ -1,0 +1,32 @@
+{
+  "kind": "launch",
+  "slug": "starlink-7-9",
+  "name": "Starlink Group 7-9",
+  "shortName": "Starlink 7-9",
+  "country": "US",
+  "description": "Starlink Group 7-9 was a Falcon 9 launch carrying a batch of Starlink v2 Mini satellites to low Earth orbit from Cape Canaveral, with the first stage landing on a droneship downrange.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/List_of_Falcon_9_launches_(2024)"
+  ],
+  "lastUpdated": "2025-06-01",
+  "rocketSlug": "falcon-9",
+  "launchSiteSlug": "cape-canaveral",
+  "companySlug": "spacex",
+  "launchDate": "2024-08-12T04:38:00Z",
+  "status": "success",
+  "missionSlug": "starlink",
+  "payloads": [
+    {
+      "name": "Starlink v2 Mini (batch)",
+      "type": "communications",
+      "operatorSlug": "spacex",
+      "massKg": 17500,
+      "orbit": "LEO"
+    }
+  ],
+  "orbit": "LEO",
+  "recovery": { "type": "droneship", "vehicle": "A Shortfall of Gravitas", "status": "success" },
+  "webcastUrl": null,
+  "flightNumber": null,
+  "isChinaProgram": false
+}

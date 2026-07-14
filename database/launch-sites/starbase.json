@@ -1,0 +1,17 @@
+{
+  "kind": "launch-site",
+  "slug": "starbase",
+  "name": "Starbase",
+  "country": "US",
+  "description": "Starbase is SpaceX's private launch, production, and test site at Boca Chica, Texas, used for development and orbital launches of the Starship/Super Heavy launch system. It includes the orbital launch mount, test stands, and a growing production complex.",
+  "sourceUrls": [
+    "https://www.spacex.com/facilities/starbase/",
+    "https://en.wikipedia.org/wiki/SpaceX_Starbase"
+  ],
+  "lastUpdated": "2025-06-01",
+  "location": { "lat": 25.997, "lon": -97.155 },
+  "operatorSlug": "spacex",
+  "status": "active",
+  "pads": ["Orbital Launch Mount A", "Orbital Launch Mount B (planned)"],
+  "isChinaProgram": false
+}

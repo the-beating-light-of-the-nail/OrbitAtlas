@@ -1,0 +1,17 @@
+{
+  "kind": "mission",
+  "slug": "tiangong",
+  "name": "Tiangong Space Station Program",
+  "shortName": "Tiangong",
+  "country": "CN",
+  "description": "Tiangong is China's modular space station program operated by CASC and CMSA, assembled in low Earth orbit from the Tianhe core module and the Wentian and Mengtian experiment modules. It is permanently crewed by rotating Shenzhou crews and resupplied by Tianzhou cargo vehicles launched on Long March rockets.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Tiangong"
+  ],
+  "lastUpdated": "2025-06-01",
+  "operatorSlug": "casc",
+  "type": "national-program",
+  "launchSlugs": ["tianhe-core-module"],
+  "target": "LEO (Chinese Space Station)",
+  "isChinaProgram": true
+}

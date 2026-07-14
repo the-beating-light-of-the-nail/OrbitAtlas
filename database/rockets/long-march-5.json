@@ -1,0 +1,27 @@
+{
+  "kind": "rocket",
+  "slug": "long-march-5",
+  "name": "Long March 5",
+  "shortName": "CZ-5",
+  "country": "CN",
+  "description": "Long March 5 (Chang Zheng 5) is China's heaviest-lift launch vehicle, developed by CASC and operated from Wenchang. It uses liquid hydrogen/liquid oxygen on the core and YF-100K kerosene/LOX engines on the four boosters, and has launched China's space-station modules, the Tianwen-1 Mars mission, and lunar sample return missions.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Long_March_5"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "casc",
+  "status": "active",
+  "reusable": false,
+  "heightM": 56.6,
+  "diameterM": 5,
+  "massKg": 869000,
+  "payloadToLeoKg": 25000,
+  "payloadToGtoKg": 14000,
+  "stages": 2,
+  "engines": [
+    { "engineSlug": "yf-100", "stage": 1, "count": 8 }
+  ],
+  "firstFlight": "2016-11-03",
+  "primaryLaunchSiteSlug": "wenchang",
+  "isChinaProgram": true
+}

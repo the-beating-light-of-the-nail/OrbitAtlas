@@ -1,0 +1,24 @@
+{
+  "kind": "launch",
+  "slug": "zhuque-3-maiden",
+  "name": "Zhuque-3 Maiden Flight",
+  "shortName": "Zhuque-3 Maiden",
+  "country": "CN",
+  "description": "Planned first orbital flight of LandSpace's reusable Zhuque-3 rocket, intended to demonstrate the vehicle's first stage and eventual booster recovery capability from Jiuquan.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Zhuque-3"
+  ],
+  "lastUpdated": "2025-06-01",
+  "rocketSlug": "zhuque-3",
+  "launchSiteSlug": "jiuquan",
+  "companySlug": "landspace",
+  "launchDate": null,
+  "status": "planned",
+  "missionSlug": null,
+  "payloads": [],
+  "orbit": null,
+  "recovery": null,
+  "webcastUrl": null,
+  "flightNumber": 1,
+  "isChinaProgram": true
+}

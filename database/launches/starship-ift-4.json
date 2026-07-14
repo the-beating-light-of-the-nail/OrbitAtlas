@@ -1,0 +1,25 @@
+{
+  "kind": "launch",
+  "slug": "starship-ift-4",
+  "name": "Starship Integrated Flight Test 4",
+  "shortName": "Starship IFT-4",
+  "country": "US",
+  "description": "Starship Integrated Flight Test 4 was the fourth flight of the Starship/Super Heavy full stack, achieving the first successful ocean splashdown of the Super Heavy booster and a controlled Starship reentry and splashdown, marking major progress toward reusability.",
+  "sourceUrls": [
+    "https://www.spacex.com/launches/mission/?missionId=starship-flight-4",
+    "https://en.wikipedia.org/wiki/SpaceX_Starship_integrated_flight_test_4"
+  ],
+  "lastUpdated": "2025-06-01",
+  "rocketSlug": "starship",
+  "launchSiteSlug": "starbase",
+  "companySlug": "spacex",
+  "launchDate": "2024-06-06T12:20:00Z",
+  "status": "success",
+  "missionSlug": null,
+  "payloads": [],
+  "orbit": "suborbital",
+  "recovery": { "type": "droneship", "vehicle": "Mechazilla / splashdown", "status": "success" },
+  "webcastUrl": "https://www.youtube.com/watch?v=LL67a2Q5qUg",
+  "flightNumber": 4,
+  "isChinaProgram": false
+}

@@ -1,0 +1,19 @@
+{
+  "kind": "company",
+  "slug": "nasa",
+  "name": "NASA",
+  "shortName": "NASA",
+  "country": "US",
+  "description": "The National Aeronautics and Space Administration (NASA) is the United States civilian space agency, established in 1958. NASA does not manufacture most of its own launch vehicles but procures launches from commercial providers and operates the Artemis lunar program, the International Space Station, and a deep-space exploration portfolio.",
+  "sourceUrls": [
+    "https://www.nasa.gov/",
+    "https://en.wikipedia.org/wiki/NASA"
+  ],
+  "lastUpdated": "2025-06-01",
+  "type": "agency",
+  "founded": "1958",
+  "headquarters": "Washington, D.C., US",
+  "website": "https://www.nasa.gov/",
+  "rocketSlugs": ["space-launch-system"],
+  "isChinaProgram": false
+}

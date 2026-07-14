@@ -1,0 +1,27 @@
+{
+  "kind": "rocket",
+  "slug": "long-march-8",
+  "name": "Long March 8",
+  "shortName": "CZ-8",
+  "country": "CN",
+  "description": "Long March 8 (Chang Zheng 8) is a Chinese medium-lift launch vehicle developed by CASC for sun-synchronous and medium-inclination orbits. It reuses YF-100 and YF-75 propulsion from the Long March 5 and 7 families, and a reusable first-stage variant has been flight-tested as China explores booster recovery.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Long_March_8"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "casc",
+  "status": "active",
+  "reusable": false,
+  "heightM": 50.3,
+  "diameterM": 3.35,
+  "massKg": 456000,
+  "payloadToLeoKg": 8000,
+  "payloadToGtoKg": 2800,
+  "stages": 2,
+  "engines": [
+    { "engineSlug": "yf-100", "stage": 1, "count": 2 }
+  ],
+  "firstFlight": "2020-12-22",
+  "primaryLaunchSiteSlug": "wenchang",
+  "isChinaProgram": true
+}

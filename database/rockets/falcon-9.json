@@ -1,0 +1,29 @@
+{
+  "kind": "rocket",
+  "slug": "falcon-9",
+  "name": "Falcon 9",
+  "shortName": "F9",
+  "country": "US",
+  "description": "Falcon 9 is a partially reusable, two-stage orbital launch vehicle developed by SpaceX. Its first stage propulsively lands and has been reused dozens of times, making it the most-flown Western orbital rocket and a backbone of global launch cadence, used for Starlink, NASA missions, and commercial satellites.",
+  "sourceUrls": [
+    "https://www.spacex.com/vehicles/falcon-9/",
+    "https://en.wikipedia.org/wiki/Falcon_9"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "spacex",
+  "status": "active",
+  "reusable": true,
+  "heightM": 70,
+  "diameterM": 3.7,
+  "massKg": 549054,
+  "payloadToLeoKg": 22800,
+  "payloadToGtoKg": 8300,
+  "stages": 2,
+  "engines": [
+    { "engineSlug": "merlin", "stage": 1, "count": 9 },
+    { "engineSlug": "merlin", "stage": 2, "count": 1 }
+  ],
+  "firstFlight": "2010-06-04",
+  "primaryLaunchSiteSlug": "cape-canaveral",
+  "isChinaProgram": false
+}

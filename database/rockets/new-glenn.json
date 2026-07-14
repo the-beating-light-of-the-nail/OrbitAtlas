@@ -1,0 +1,28 @@
+{
+  "kind": "rocket",
+  "slug": "new-glenn",
+  "name": "New Glenn",
+  "shortName": "NG",
+  "country": "US",
+  "description": "New Glenn is a heavy-lift, partially reusable orbital launch vehicle developed by Blue Origin, powered by seven BE-4 liquid-oxygen/LNG engines on its first stage. The first stage is designed for recovery and reuse, and the vehicle targets commercial, national-security, and Blue Origin's own orbital ambitions from Cape Canaveral.",
+  "sourceUrls": [
+    "https://www.blueorigin.com/new-glenn",
+    "https://en.wikipedia.org/wiki/New_Glenn"
+  ],
+  "lastUpdated": "2025-06-01",
+  "manufacturerSlug": "blue-origin",
+  "status": "active",
+  "reusable": true,
+  "heightM": 98,
+  "diameterM": 7,
+  "massKg": 1400000,
+  "payloadToLeoKg": 45000,
+  "payloadToGtoKg": 13900,
+  "stages": 2,
+  "engines": [
+    { "engineSlug": "be-4", "stage": 1, "count": 7 }
+  ],
+  "firstFlight": "2025-01-16",
+  "primaryLaunchSiteSlug": "cape-canaveral",
+  "isChinaProgram": false
+}

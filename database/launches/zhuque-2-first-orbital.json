@@ -1,0 +1,32 @@
+{
+  "kind": "launch",
+  "slug": "zhuque-2-first-orbital",
+  "name": "Zhuque-2 First Successful Orbital Flight",
+  "shortName": "Zhuque-2 Y2",
+  "country": "CN",
+  "description": "The second flight of LandSpace's Zhuque-2 became the first successful orbital launch of a liquid-oxygen/methane rocket anywhere in the world, placing a test payload into low Earth orbit from Jiuquan.",
+  "sourceUrls": [
+    "https://en.wikipedia.org/wiki/Zhuque-2"
+  ],
+  "lastUpdated": "2025-06-01",
+  "rocketSlug": "zhuque-2",
+  "launchSiteSlug": "jiuquan",
+  "companySlug": "landspace",
+  "launchDate": "2023-07-12T02:00:00Z",
+  "status": "success",
+  "missionSlug": null,
+  "payloads": [
+    {
+      "name": "Test payload",
+      "type": "technology-demonstration",
+      "operatorSlug": "landspace",
+      "massKg": null,
+      "orbit": "LEO"
+    }
+  ],
+  "orbit": "LEO",
+  "recovery": { "type": "none", "status": "not-attempted" },
+  "webcastUrl": null,
+  "flightNumber": 2,
+  "isChinaProgram": true
+}
